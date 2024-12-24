@@ -1,0 +1,172 @@
+{
+  "flights": [
+    {
+      "from": 2,
+      "to": 1,
+      "seats": [
+        {"price": 175, "status": "free"},
+        {"price": 177, "status": "booked"},
+        {"price": 179, "status": "free"},
+        {"price": 181, "status": "free"},
+        {"price": 183, "status": "booked"},
+        {"price": 185, "status": "free"},
+        {"price": 187, "status": "free"},
+        {"price": 189, "status": "free"},
+        {"price": 191, "status": "free"},
+        {"price": 193, "status": "free"},
+        {"price": 195, "status": "free"},
+        {"price": 197, "status": "free"},
+        {"price": 199, "status": "free"},
+        {"price": 201, "status": "free"},
+        {"price": 203, "status": "free"}
+      ]
+    },
+    {
+      "from": 2,
+      "to": 4,
+      "seats": [
+        {"price": 210, "status": "free"},
+        {"price": 215, "status": "booked"},
+        {"price": 220, "status": "free"},
+        {"price": 225, "status": "free"},
+        {"price": 230, "status": "free"},
+        {"price": 235, "status": "booked"},
+        {"price": 240, "status": "free"},
+        {"price": 245, "status": "free"},
+        {"price": 250, "status": "free"},
+        {"price": 255, "status": "free"},
+        {"price": 260, "status": "free"},
+        {"price": 265, "status": "free"},
+        {"price": 270, "status": "free"},
+        {"price": 275, "status": "free"},
+        {"price": 280, "status": "free"}
+      ]
+    },
+    {
+      "from": 3,
+      "to": 1,
+      "seats": [
+        {"price": 190, "status": "free"},
+        {"price": 195, "status": "booked"},
+        {"price": 200, "status": "free"},
+        {"price": 205, "status": "free"},
+        {"price": 210, "status": "free"},
+        {"price": 215, "status": "booked"},
+        {"price": 220, "status": "free"},
+        {"price": 225, "status": "free"},
+        {"price": 230, "status": "free"},
+        {"price": 235, "status": "free"},
+        {"price": 240, "status": "free"},
+        {"price": 245, "status": "free"},
+        {"price": 250, "status": "free"},
+        {"price": 255, "status": "free"},
+        {"price": 260, "status": "free"}
+      ]
+    },
+    {
+      "from": 3,
+      "to": 2,
+      "seats": [
+        {"price": 165, "status": "free"},
+        {"price": 170, "status": "booked"},
+        {"price": 175, "status": "free"},
+        {"price": 180, "status": "free"},
+        {"price": 185, "status": "free"},
+        {"price": 190, "status": "booked"},
+        {"price": 195, "status": "free"},
+        {"price": 200, "status": "free"},
+        {"price": 205, "status": "free"},
+        {"price": 210, "status": "free"},
+        {"price": 215, "status": "free"},
+        {"price": 220, "status": "free"},
+        {"price": 225, "status": "free"},
+        {"price": 230, "status": "free"},
+        {"price": 235, "status": "free"}
+      ]
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "seats": [
+        {"price": 295, "status": "free"},
+        {"price": 300, "status": "booked"},
+        {"price": 305, "status": "free"},
+        {"price": 310, "status": "free"},
+        {"price": 315, "status": "free"},
+        {"price": 320, "status": "booked"},
+        {"price": 325, "status": "free"},
+        {"price": 330, "status": "free"},
+        {"price": 335, "status": "free"},
+        {"price": 340, "status": "free"},
+        {"price": 345, "status": "free"},
+        {"price": 350, "status": "free"},
+        {"price": 355, "status": "free"},
+        {"price": 360, "status": "free"},
+        {"price": 365, "status": "free"}
+      ]
+    },
+    {
+      "from": 5,
+      "to": 1,
+      "seats": [
+        {"price": 310, "status": "free"},
+        {"price": 315, "status": "booked"},
+        {"price": 320, "status": "free"},
+        {"price": 325, "status": "free"},
+        {"price": 330, "status": "free"},
+        {"price": 335, "status": "booked"},
+        {"price": 340, "status": "free"},
+        {"price": 345, "status": "free"},
+        {"price": 350, "status": "free"},
+        {"price": 355, "status": "free"},
+        {"price": 360, "status": "free"},
+        {"price": 365, "status": "free"},
+        {"price": 370, "status": "free"},
+        {"price": 375, "status": "free"},
+        {"price": 380, "status": "free"}
+      ]
+    },
+    {
+      "from": 5,
+      "to": 2,
+      "seats": [
+        {"price": 270, "status": "free"},
+        {"price": 275, "status": "booked"},
+        {"price": 280, "status": "free"},
+        {"price": 285, "status": "free"},
+        {"price": 290, "status": "free"},
+        {"price": 295, "status": "booked"},
+        {"price": 300, "status": "free"},
+        {"price": 305, "status": "free"},
+        {"price": 310, "status": "free"},
+        {"price": 315, "status": "free"},
+        {"price": 320, "status": "free"},
+        {"price": 325, "status": "free"},
+        {"price": 330, "status": "free"},
+        {"price": 335, "status": "free"},
+        {"price": 340, "status": "free"}
+      ]
+    },
+    {
+      "from": 5,
+      "to": 4,
+      "seats": [
+        {"price": 350, "status": "free"},
+        {"price": 355, "status": "booked"},
+        {"price": 360, "status": "free"},
+        {"price": 365, "status": "free"},
+        {"price": 370, "status": "free"},
+        {"price": 375, "status": "booked"},
+        {"price": 380, "status": "free"},
+        {"price": 385, "status": "free"},
+        {"price": 390, "status": "free"},
+        {"price": 395, "status": "free"},
+        {"price": 400, "status": "free"},
+        {"price": 405, "status": "free"},
+        {"price": 410, "status": "free"},
+        {"price": 415, "status": "free"},
+        {"price": 420, "status": "free"}
+      ]
+    }
+  ]
+}

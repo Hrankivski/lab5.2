@@ -1,0 +1,71 @@
+
+{
+    "flights": [
+        {
+            "from": 1,
+            "to": 2,
+            "seats": [
+                {
+                    "price": 150.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 152.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 150.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 151.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 155.0,
+                    "status": "free"
+                },
+                {
+                    "price": 149.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 150.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 148.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 152.0,
+                    "status": "free"
+                },
+                {
+                    "price": 150.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 151.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 153.0,
+                    "status": "free"
+                },
+                {
+                    "price": 150.0,
+                    "status": "booked"
+                },
+                {
+                    "price": 152.0,
+                    "status": "free"
+                },
+                {
+                    "price": 150.0,
+                    "status": "booked"
+                }
+            ]
+        }
+    ]
+}
